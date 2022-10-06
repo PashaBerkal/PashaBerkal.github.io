@@ -1095,11 +1095,10 @@ span {
     -webkit-box-align: center;
         -ms-flex-align: center;
             align-items: center;
-    margin-left: 92px;
+    justify-content: center;
   }
   .basement_download {
     position: relative;
-    margin-top: 19px;
-    margin-left: 53px;
+    margin: 19px auto;
   }
 }/*# sourceMappingURL=style.min.css.map */
