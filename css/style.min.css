@@ -651,7 +651,7 @@ span {
   display: flex;
   margin-top: -29px;
   position: absolute;
-  right: 0;
+  right: 10px;
 }
 
 .xs-visible {
