@@ -1,0 +1,25 @@
+.main{
+    height: 541px;
+    width: 1358px;
+    background: white;
+    padding-top: 100px;
+}
+.wrapper{
+    position: relative;
+    display: block;
+    background: white;
+    margin: 300px auto;
+    width: 110px;
+    height: 110px;
+    transition: all 0.1s;
+}
+.btn{
+    display: block;
+    position: absolute;
+    width: 100px;
+    height: 20px;
+    background: rgb(185, 155, 216);
+    margin: 65px 25px;
+    text-align: center;
+    color: rgb(238, 223, 238);
+}
