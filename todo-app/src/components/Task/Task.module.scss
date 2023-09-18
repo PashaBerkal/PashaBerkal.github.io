@@ -1,0 +1,10 @@
+.component {
+    background-color: #ffebeb;
+    min-height: 55px;
+    padding: 10px;
+    
+    .secondaryAction {
+        display: flex;
+        gap: 10px;
+    }
+}
